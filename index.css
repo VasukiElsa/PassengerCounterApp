@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-image: url(images/train2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  
+}
+
+h1{
+    color:white;
+    font-size: 60px;
+}
+
+#count-el{
+    font-weight:800;
+    font-size: 80px;
+    color:white
+}
+
+button{
+
+    width: 300px;
+    color:rgb(41, 174, 226);
+    font-size: 40px;
+    padding:20px;
+    font-weight: 900;
+}
+
+#increment-btn{
+    background-color: rgb(41, 174, 226);
+    margin-top:-22px;
+    margin-left:20px;
+    color:white;
+}
+
+#save-btn{
+    background-color: rgb(41, 174, 226);
+    color: white;
+    margin-left: 400px;
+   
+
+}
+
+#save-el{
+    font-size: 60px;
+    font-weight: 500;
+    color:white;
+    margin-top:70px;
+   
+
+}
